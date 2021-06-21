@@ -5386,6 +5386,33 @@ let cards = [
     imageLink: './Art/floatingWords/floatingWords.gif',
     author: 'ScoobyDooDoo',
     githubLink: 'https://github.com/ScoobyDooDoo'
+  },
+  {
+    artName: 'Happy Hacktoberfest',
+    pageLink: './Art/DavidEdmondson/index.html',
+    imageLink: './Art/DavidEdmondson/HappyHacktoberfestWithJack-o-lantern.gif',
+    author: 'David Edmondson',
+    githubLink: 'https://github.com/davidedmondson'
+  },
+  {
+    artName: 'ExtendIt',
+    pageLink: './Art/Mahi/index.html',
+    imageLink: './Art/Mahi/screenshot.JPG',
+    author: 'Mahi',
+    githubLink: 'https://github.com/NineNintyNine'
+  },
+  {
+    artName: 'Big-Eye',
+    pageLink: './Art/Big-Eye/index.html',
+    author: 'Charly-Crypton',
+    githubLink: 'https://github.com/Charly-Crypton'
+  },
+  {
+    artName: 'Wavy',
+    pageLink: './Art/wavy/index.html',
+    imageLink: './Art/wavy/wavy.gif',
+    author: 'AnastasiosPas',
+    githubLink: 'https://github.com/AnastasiosPas'
   }
 ];
 // +--------------------------------------------------------------------------------+
